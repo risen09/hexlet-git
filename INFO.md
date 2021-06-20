@@ -1,4 +1,4 @@
-git is awesome!
-new line
+I love hexlet!
+Something imprtant
 experiment with amend
 new data
